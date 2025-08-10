@@ -59,5 +59,4 @@ Include `binary_trees.h` in your C source files and link the corresponding `.c` 
 
 ## Author
 
-*Amine Chiha*  
-Holberton School
+*Amin Chiha*  <amin.chiha@gmail.com>
